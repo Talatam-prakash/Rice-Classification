@@ -87,9 +87,3 @@ Rice Image Dataset by [Murat Koklu](https://www.kaggle.com/datasets/muratkokluda
 
 ---
 
-
-##  License
-
-This project is licensed under the MIT License.
-
----
