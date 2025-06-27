@@ -72,7 +72,7 @@ Visit `http://127.0.0.1:5000/` in your browser to start using the app.
 
 ##  Dataset
 
-Rice Image Dataset by [Murat Koklu](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset) (via Kaggle) containing 5 rice grain categories with 1500 images each.
+Rice Image Dataset by [Murat Koklu](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset) (via Kaggle) containing 5 rice grain categories with 15000 images each.
 
 ---
 
